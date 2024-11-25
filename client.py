@@ -19,4 +19,6 @@ if __name__ == '__main__':
     add_perfume("Chanel No. 5", "Top notes: Aldehydes, Neroli, Ylang-ylang", 15000)
     add_perfume("Dior Sauvage", "Notes of Bergamot, Ambroxan, and Sichuan Pepper", 12000)
     add_perfume("Tom Ford Black Orchid", "Notes of Black Truffle, Ylang-ylang, and Bergamot", 17000)
+    add_perfume("YSL Libre", "Lavender, orange blossom, and musk for a bold floral fragrance.", 14000)
+    add_perfume("Victoria's Secret Bombshell", "Notes of Purple Passion Fruit, Shangri-La Peony, and Vanilla Orchid.", 9500)
     get_perfumes()
