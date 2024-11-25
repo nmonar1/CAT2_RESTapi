@@ -1,5 +1,5 @@
 # CAT2_RESTapi - Perfume Management API  
-# #168330 Monari Nicole Gesare 2.2C  
+# 168330 Monari Nicole Gesare 2.2C  
 
 A simple project that demonstrates managing perfumes using a REST API built with Flask.
 
